@@ -540,7 +540,7 @@ http://183.30.201.168:10002/rtp/239.77.1.4:5146
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="卫视频道",北京卫视
 http://14.157.24.38:2345/rtp/239.77.1.4:5146
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://logo.catvod.com/北京卫视4K.png" group-title="卫视频道",北京卫视4K
-http://14.145.143.147:14022/rtp/239.77.0.153:5146
+http://14.145.143.147:14022/rtp/239.77.0.2:5146
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://logo.catvod.com/北京卫视4K.png" group-title="卫视频道",北京卫视4K
 http://183.30.201.168:10002/rtp/239.77.0.2:5146
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://logo.catvod.com/北京卫视4K.png" group-title="卫视频道",北京卫视4K
@@ -1073,14 +1073,6 @@ http://14.145.143.147:14022/rtp/239.77.1.6:5146
 http://183.30.201.168:10002/rtp/239.77.1.6:5146
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://14.157.24.38:2345/rtp/239.77.1.6:5146
-#EXTINF:-1 tvg-name="广东九画面" tvg-logo="https://logo.catvod.com/广东九画面.png" group-title="广东频道",广东九画面
-http://14.145.143.147:14022/rtp/239.77.1.234:5146
-#EXTINF:-1 tvg-name="广东九画面" tvg-logo="https://logo.catvod.com/广东九画面.png" group-title="广东频道",广东九画面
-http://183.30.201.168:10002/rtp/239.77.1.234:5146
-#EXTINF:-1 tvg-name="广东九画面" tvg-logo="https://logo.catvod.com/广东九画面.png" group-title="广东频道",广东九画面
-http://14.157.24.38:2345/rtp/239.77.1.234:5146
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="广东频道",广东体育
-http://14.145.143.147:14022/rtp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="广东频道",广东体育
 http://125.92.101.246:6666/rtp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="广东频道",广东体育
@@ -1090,17 +1082,21 @@ http://125.92.101.246:6666/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="广东频道",广东体育
 http://125.92.101.246:6666/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="广东频道",广东体育
-http://183.30.201.168:10002/rtp/239.77.0.112:5146
+http://183.236.43.98:4013/rtp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="广东频道",广东体育
-http://183.30.201.168:10002/udp/239.77.0.112:5146
+http://183.236.43.98:4013/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="广东频道",广东体育
-http://183.30.201.168:10002/rtp/239.77.0.168:5146
+http://183.236.43.98:4013/rtp/239.77.0.168:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="广东频道",广东体育
-http://183.30.201.168:10002/udp/239.77.0.168:5146
+http://183.236.43.98:4013/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="广东频道",广东体育
 http://14.145.143.147:14022/rtp/239.77.0.112:5146
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="广东频道",广东体育
 http://14.145.143.147:14022/rtp/239.77.0.168:5146
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="广东频道",广东体育
+http://14.145.143.147:14022/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="广东频道",广东体育
+http://14.145.143.147:14022/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://logo.catvod.com/广东少儿.png" group-title="广东频道",广东少儿
 http://14.145.143.147:14022/rtp/239.77.0.250:5146
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://logo.catvod.com/广东少儿.png" group-title="广东频道",广东少儿
