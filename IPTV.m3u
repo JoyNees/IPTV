@@ -203,12 +203,10 @@ http://223.167.230.155:4022/rtp/233.18.204.55:5140
 http://223.167.230.155:4022/rtp/233.18.204.57:5140
 #EXTINF:-1 tvg-name="上海教育" tvg-logo="https://logo.catvod.com/上海教育.png" group-title="上海频道",上海教育
 http://223.167.230.155:4022/rtp/233.18.204.63:5140
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://logo.catvod.com/第一财经.png" group-title="上海频道",第一财经
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://logo.catvod.com/东方财经.png" group-title="上海频道",东方财经
 http://223.167.230.155:4022/rtp/233.18.204.65:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://logo.catvod.com/第一财经.png" group-title="上海频道",第一财经
 http://223.167.230.155:4022/rtp/233.18.204.59:5140
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://logo.catvod.com/法治天地.png" group-title="上海频道",法治天地
-http://223.167.230.155:4022/rtp/239.45.1.46:5140
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://logo.catvod.com/法治天地.png" group-title="上海频道",法治天地
 http://223.167.230.155:4022/rtp/233.18.204.49:5140
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://logo.catvod.com/生活时尚.png" group-title="上海频道",生活时尚
