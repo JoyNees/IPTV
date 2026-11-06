@@ -224,7 +224,7 @@ http://180.165.6.4:9999/rtp/233.18.204.113:5140
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://logo.catvod.com/卡酷少儿.png" group-title="少儿频道",卡酷少儿
 http://180.165.6.4:9999/rtp/233.18.204.109:5140
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="少儿频道",嘉佳卡通
-http://183.10.182.166:8188/rtp/239.77.0.179:5146
+http://113.104.184.242:7088/rtp/239.77.0.179:5146
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://logo.catvod.com/动漫秀场.png" group-title="少儿频道",动漫秀场
 http://180.165.6.4:9999/rtp/233.18.204.46:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://logo.catvod.com/动漫秀场.png" group-title="少儿频道",动漫秀场
