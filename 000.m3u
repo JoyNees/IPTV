@@ -1,3 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://logo.catvod.com/广东卫视4K.png" group-title="未分组",广东卫视4K
-http://180.165.6.4:9999/rtp/233.18.204.218:5140
+#EXTINF:-1 tvg-name="广东珠江频道" tvg-logo="https://logo.catvod.com/广东珠江频道.png" group-title="未分组",广东珠江频道
+http://113.104.184.242:7088/udp/239.77.0.1:5146
+#EXTINF:-1 tvg-name="广东体育频道" tvg-logo="https://logo.catvod.com/广东体育频道.png" group-title="未分组",广东体育频道
+http://113.104.184.242:7088/udp/239.77.0.112:5146
