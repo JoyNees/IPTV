@@ -1,3 +1,3 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="未分组",广东体育
-http://183.36.240.113:9901/rtp/239.77.1.97:5146
+http://hongzhijiaoyu.net:8188/rtp/239.77.1.97:5146
