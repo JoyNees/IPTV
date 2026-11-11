@@ -177,8 +177,6 @@ http://180.157.239.9:8654/rtp/233.18.204.45:5140
 http://180.157.239.9:8654/rtp/233.18.204.47:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://logo.catvod.com/游戏风云.png" group-title="上海频道",游戏风云
 http://180.157.239.9:8654/rtp/233.18.204.44:5140
-#EXTINF:-1 tvg-name="未知频道" tvg-logo="https://logo.catvod.com/未知频道.png" group-title="上海频道",未知频道
-http://180.157.239.9:8654/rtp/233.18.204.202:5140
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://logo.catvod.com/哈哈炫动.png" group-title="少儿频道",哈哈炫动
 http://180.157.239.9:8654/rtp/233.18.204.54:5140
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://logo.catvod.com/金鹰卡通.png" group-title="少儿频道",金鹰卡通
