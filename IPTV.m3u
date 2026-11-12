@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-name="2026-11-13 07:45:43" tvg-logo="https://logo.catvod.com/2026-11-13 07:45:43.png" group-title="更新时间",2026-11-13 07:45:43
-http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视频道",CCTV1
 http://39.77.161.83:4002/rtp/239.253.254.77:8000$山东联通11
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视频道",CCTV1
