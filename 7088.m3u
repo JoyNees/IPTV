@@ -1,0 +1,37 @@
+#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml" tvg-shift="0"
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV1HD
+http://115.148.202.212:7088/rtp/239.252.219.200:5140
+#EXTINF:-1 tvg-id="CCTV2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV2HD
+http://115.148.202.212:7088/rtp/239.252.220.183:5140
+#EXTINF:-1 tvg-id="CCTV3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV3HD
+http://115.148.202.212:7088/rtp/239.252.219.252:5140
+#EXTINF:-1 tvg-id="CCTV4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV4HD
+http://115.148.202.212:7088/rtp/239.252.220.184:5140
+#EXTINF:-1 tvg-id="CCTV5HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV5HD
+http://115.148.202.212:7088/rtp/239.252.219.236:5140
+#EXTINF:-1 tvg-id="CCTV6HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV6HD
+http://115.148.202.212:7088/rtp/239.252.219.237:5140
+#EXTINF:-1 tvg-id="CCTV7HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV7HD
+http://115.148.202.212:7088/rtp/239.252.220.185:5140
+#EXTINF:-1 tvg-id="CCTV8HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV8HD
+http://115.148.202.212:7088/rtp/239.252.219.253:5140
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV9HD
+http://115.148.202.212:7088/rtp/239.252.220.186:5140
+#EXTINF:-1 tvg-id="CCTV10HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV10HD
+http://115.148.202.212:7088/rtp/239.252.220.91:5140
+#EXTINF:-1 tvg-id="CCTV11HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV11HD
+http://115.148.202.212:7088/rtp/239.252.219.78:5140
+#EXTINF:-1 tvg-id="CCTV12HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV12HD
+http://115.148.202.212:7088/rtp/239.252.220.187:5140
+#EXTINF:-1 tvg-id="CCTV13HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV13HD
+http://115.148.202.212:7088/rtp/239.252.219.139:5140
+#EXTINF:-1 tvg-id="CCTV-少儿HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV-少儿HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV-少儿HD
+http://115.148.202.212:7088/rtp/239.252.220.92:5140
+#EXTINF:-1 tvg-id="CCTV15HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV15HD
+http://115.148.202.212:7088/rtp/239.252.219.79:5140
+#EXTINF:-1 tvg-id="CCTV16-4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16-4K.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV16-4K
+http://115.148.202.212:7088/rtp/239.252.220.237:5140
+#EXTINF:-1 tvg-id="CCTV17HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17HD.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV17HD
+http://115.148.202.212:7088/rtp/239.252.220.192:5140
+#EXTINF:-1 tvg-id="CCTV5+高清" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+高清.png" group-title="江西鹰潭贵溪市组播 江西电信",CCTV5+高清
+http://115.148.202.212:7088/rtp/239.252.219.72:5140
